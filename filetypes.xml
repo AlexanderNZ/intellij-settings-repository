@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="factories/RaygunErrorTrackerFactory" type="CLASS" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="count" type="PLAIN_TEXT" />
+      <mapping pattern="V7_create_assessment_assumptions.sql" type="PLAIN_TEXT" />
+      <mapping ext="ans" type="PLAIN_TEXT" />
+      <mapping ext="13__add_sharing_fields_to_big_ideas" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="csv" approved="true" type="CSV" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="tsv" approved="true" type="TSV" />
+      <mapping pattern="comments" type="ANTLR v4 grammar file" />
+    </extensionMap>
+  </component>
+</application>
