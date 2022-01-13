@@ -1,16 +1,6 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="secretsNeverBeenAnalysed" value="false" />
-    <option name="sonarQubeServers">
-      <list>
-        <SonarQubeServer>
-          <option name="hostUrl" value="https://sonarqube.ringfence.nz" />
-          <token>df98dfccdf9adf9bdfcedf92df9bdf92dfcfdfcbdf98df98df98df9ddf92df9fdf9bdfcedf9adfc9dfccdf9bdfccdf9bdfc8df9fdf9adfc8df9fdfc9df9ddfcedf98dfcfdfcfdfcedfcfdfc8df9ddf9c</token>
-          <option name="name" value="Rancher" />
-          <organizationKey>default-organization</organizationKey>
-        </SonarQubeServer>
-      </list>
-    </option>
     <rules />
   </component>
 </application>
